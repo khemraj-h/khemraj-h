@@ -20,6 +20,11 @@
   <a href="https://github.com/khemraj-h">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=khemraj-h&count_private=true"/>
   </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/khemraj-h">
+    <img src="https://github-readme-stats-coral-three.vercel.app/api/top-langs/?username=khemraj-h&count_private=true"/>
+  </a>  
 </p>
 <br>
 
