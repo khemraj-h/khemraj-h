@@ -12,10 +12,17 @@
 
 <br/>
 <p align="left">
-  <a href="https://lia0wang.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=khemraj-h&show_icons=true"/>
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=khemraj-h"/>
+  <a href="https://github.com/khemraj-h">
+    <img src="https://github-readme-stats.vercel.app/api?username=khemraj-h&show_icons=true"/>
   </a>
+  <br/>
+  <a href="https://github.com/khemraj-h">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khemraj-h"/>
+  </a>
+  <br/>
+  <a href="https://github.com/khemraj-h">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khemraj-h&layout=compact"/>
+  </a>  
 </p>
 <br>
 
