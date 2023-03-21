@@ -8,7 +8,7 @@
 - 💬 Ask me about anything.
 - ⚡ Fun fact: Love Space 🌌, Photography 📷, Technology 👨‍💻, Hiking 🥾
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">🤝 Connect with me:</h2>
 <div align="left">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khemraj-hardowar/)
