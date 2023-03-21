@@ -14,7 +14,7 @@
 
 <p align="lwft"> 
   <a href="https://www.r-project.org" target="_blank">
-    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="r"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
