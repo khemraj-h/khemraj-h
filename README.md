@@ -7,6 +7,8 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khemraj-hardowar/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hardowarkhemraj)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardowar.khemraj@gmail.com)
+[![image](https://img.shields.io/badge/-NYU%20Email-%2357068c?style=for-the-badge)](mailto:khemraj.hardowar@nyulangone.org)  
+[![image](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Khemraj-Hardowar)
   
 </div>
 
@@ -74,13 +76,13 @@
   </a>   
 </p>
 
-<h3 align="left">Operating System:</h3>
+<h3 align="left">Operating Systems:</h3>
 <p align="lwft"> 
   <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="sqlite"/> 
   </a> 
   <a href="https://www.redhat.com/en/" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/> 
+    <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="redhat"/> 
   </a> 
   <a href="https://www.apple.com/macos/" target="_blank"> 
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos"/> 
