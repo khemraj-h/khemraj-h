@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on anything of interest
 - 🤔 I’m looking for help with frameworks 
 - 💬 Ask me about anything.
-- ⚡ Fun fact: Love Space 🌌, Photography 📷, Technology 👨‍💻, Hiking 🥾
+- ⚡ Fun fact: Loves Space 🌌, Photography 📷, Technology 👨‍💻, Hiking 🥾, Anime 🍥
 
 ## 📈 Contribution Statistics
 
@@ -35,7 +35,7 @@
    
 </div>
 
-## Research <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## 👨‍🔬 Research <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 <div align="left">
   
 [![image](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Khemraj-Hardowar)
@@ -43,7 +43,7 @@
   
 </div>
 
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## 🛠️ Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 <h3 align="left">Languages:</h3>
 
