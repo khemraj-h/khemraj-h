@@ -8,6 +8,17 @@
 - 💬 Ask me about anything.
 - ⚡ Fun fact: Love Space 🌌, Photography 📷, Technology 👨‍💻, Hiking 🥾
 
+## 📈 Contribution Statistics
+
+<br/>
+<p align="left">
+  <a href="https://lia0wang.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=khemraj-h&show_icons=true"/>
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=khemraj-h"/>
+  </a>
+</p>
+<br>
+
 <h2 align="left">🤝 Connect with me:</h2>
 <div align="left">
 
