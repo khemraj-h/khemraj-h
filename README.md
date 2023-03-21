@@ -11,7 +11,7 @@
 ## 📈 Contribution Statistics
 
 <br/>
-<p align="left">
+<p align="center">
   <a href="https://github.com/khemraj-h">
     <img src="https://github-readme-stats.vercel.app/api?username=khemraj-h&show_icons=true"/>
   </a>
