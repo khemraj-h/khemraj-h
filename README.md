@@ -13,7 +13,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/khemraj-h">
-    <img src="https://github-readme-stats.vercel.app/api?username=khemraj-h&show_icons=true&count_private=true"/>
+    <img src="https://github-readme-stats-coral-three.vercel.app/api?username=khemraj-h&show_icons=true&count_private=true"/>
   </a>
   <br/>
   <br/>
