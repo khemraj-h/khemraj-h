@@ -1,6 +1,13 @@
 <!-- Greeting -->
 # Hi there 👋
 
+- 🔭 I’m currently working on data management infrastructure, mardown reporting 
+- 🌱 I’m currently learning python and quality assurance processes 
+- 👯 I’m looking to collaborate on anything of interest
+- 🤔 I’m looking for help frameworks 
+- 💬 Ask me about anything.
+- ⚡ Fun fact: Love Space 🌌, Photography 📷, Technology 👨‍💻, Hiking 🥾
+
 <h2 align="left">Connect with me:</h2>
 <div align="left">
 
@@ -12,7 +19,7 @@
    
 </div>
 
-<h2 align="left">Research:</h2>
+## Research <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 <div align="left">
   
 [![image](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Khemraj-Hardowar)
