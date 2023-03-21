@@ -21,7 +21,7 @@
   </a>
   <br/>
   <a href="https://github.com/khemraj-h">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khemraj-h&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khemraj-h&layout=compact&count_private=true"/>
   </a>  
 </p>
 <br>
