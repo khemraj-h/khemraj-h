@@ -62,17 +62,25 @@
 </p>
 
 <h3 align="left">Databases:</h3>
+<p align="lwft"> 
+  <a href="https://www.sqlite.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/> 
+  </a> 
+  <a href="https://www.postgresql.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/> 
+  </a>  
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
+  </a>   
+</p>
 
 <h3 align="left">Operating System:</h3>
 <p align="lwft"> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> 
+  <a href="https://www.sqlite.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="sqlite"/> 
   </a> 
   <a href="https://www.redhat.com/en/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="redhat"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> 
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/> 
   </a> 
   <a href="https://www.apple.com/macos/" target="_blank"> 
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos"/> 
