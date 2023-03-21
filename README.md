@@ -23,7 +23,7 @@
 <div align="left">
   
 [![image](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Khemraj-Hardowar)
-[![image](https://img.shields.io/badge/-ORCID-%23f2f2f2?style=for-the-badge&logo=orcid)](https://orcid.org/my-orcid?orcid=0009-0008-4927-8245)
+[![image](https://img.shields.io/badge/-ORCID-%23f2f2f2?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0008-4927-8245)
   
 </div>
 
