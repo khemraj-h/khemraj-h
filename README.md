@@ -7,8 +7,15 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khemraj-hardowar/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hardowarkhemraj)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardowar.khemraj@gmail.com)
-[![image](https://img.shields.io/badge/-NYU%20Email-%2357068c?style=for-the-badge)](mailto:khemraj.hardowar@nyulangone.org)  
+[![image](https://img.shields.io/badge/-NYU%20Email-%2357068c?style=for-the-badge)](mailto:khemraj.hardowar@nyulangone.org) 
+    
+</div>
+
+<h2 align="left">Research:</h2>
+<div align="left">
+  
 [![image](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Khemraj-Hardowar)
+[![image](https://img.shields.io/badge/-ORCID-%23ffffff?style=for-the-badge&logo=orcid)](https://orcid.org/my-orcid?orcid=0009-0008-4927-8245)
   
 </div>
 
@@ -34,7 +41,10 @@
   </a>   
   <a href="https://www.latex-project.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="latex"/> 
-  </a>     
+  </a>
+  <a href="https://www.markdownguide.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Markdown-%23000000?style=for-the-badge&logo=Markdown" alt="markdown"/> 
+  </a>       
 </p>
  
 <h3 align="left">Tools:</h3>
