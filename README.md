@@ -1,5 +1,5 @@
 <!-- Greeting -->
-# Hi there 👋<a href='https://www.researchgate.net/profile/Khemraj-Hardowar/'><img src="packages.png" align="right" height="750"/></a>
+# Hi there 👋<a href='https://www.researchgate.net/profile/Khemraj-Hardowar/'><img src="packages.png" align="right" height="550"/></a>
 
 - 🔭 I’m currently working on data management infrastructure, mardown reporting 
 - 🌱 I’m currently learning python and quality assurance processes 
